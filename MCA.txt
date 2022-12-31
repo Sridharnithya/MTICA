@@ -1,0 +1,5 @@
+day1:we learn basics of python
+day2:variables
+day3:conditional statements
+day4:List
+day5:Strings
